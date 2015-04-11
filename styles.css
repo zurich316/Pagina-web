@@ -1,0 +1,220 @@
+.header {
+   
+    color: white;
+    font-family: Calibri;
+    margin: 0px;
+}
+.linksHeader {
+    float: right;
+   border-top: 0px;
+   color: #5AC3C3;
+   bottom: 30px;
+ 
+}
+
+.logo
+{
+	position: relative;
+	border-top: 4px solid #648880;
+	float: left;
+	letter-spacing: 5px;
+  	line-height: 44px;
+  	text-transform: uppercase;
+  	bottom: 30px;
+  	
+  
+	
+}
+body 
+{
+
+  background: #F90659;
+  
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.cuerpo 
+{
+    position: relative;
+}
+
+.titulo
+{
+	color: #64880;
+	margin: 0 auto;
+  	width: 960px;
+  	content: "";
+  	display: block;
+  	clear: both;
+  	margin: 0;
+  	padding: 0;
+  	border: 0;
+  	font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+
+}
+
+.nav {
+  text-align: right;
+}
+.nav li {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top;
+}
+.nav li:last-child {
+  margin-right: 0;
+}
+
+
+
+
+.group:before,
+.group:after {
+  content: "";
+  display: block;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+}
+
+.cuerpo
+{	
+  text-align: center;
+  background: #FFF;
+  
+  border: 0px;
+  right: 8px;
+  width: 101.5%;
+  margin: 0 auto;
+
+
+
+ 
+}
+
+.plantilla
+{
+
+    
+    padding: 1%;
+}
+
+.linksFooter {
+   position: relative;
+   bottom: 40px;
+   float: right;
+   margin-right: 30px;
+   margin-top: 0px;
+   
+   
+}
+
+.forms
+{
+	text-align: left;
+
+}
+
+input,select,textarea
+{
+	border-radius: 69px;
+}
+
+.titu
+{
+	padding-top: 50px;
+	
+}
+
+.izq h1, h5,p
+{
+	text-align: left;
+	padding-left: 60px;
+	
+}
+
+.letraTitulo
+{
+	text-align: center;
+}
+
+
+
+.cuadrado1
+{
+	float: left;
+	width: 29%;
+	min-height: 200px;
+	margin: 20px;
+}
+
+.cuadrado2 
+{
+	float: left;
+	width: 29%;
+	min-height: 200px;
+	margin: 20px;
+	
+
+}
+
+
+.cuadrado3 
+{
+	float: right;
+	width: 29%;
+	min-height: 200px;
+	margin: 20px;
+	
+
+}
+
+.cuadrado4
+{
+	float: left;
+	width: 60%;
+	min-height: 200px;
+	margin: 20px;
+}
+.container
+{
+
+	
+	
+}
+
+.ima img
+{
+	width: 150px;
+	height: 150px;
+}
+
+.map img
+{
+	width: 600px;
+	height: 250px;
+}
+
+
+.tabla 
+{
+	right: 60px;
+	border-radius: 69px;
+}
+
+.td {
+    text-align: right;
+}
+
+.tr {
+    background-color: black;
+    color: white;
+    border-bottom: medium;
+    border-collapse: collapse;
+    width: 100%;
+}
